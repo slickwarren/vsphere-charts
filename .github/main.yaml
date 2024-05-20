@@ -1,5 +1,4 @@
 name: Make Vsphere Charts
-
 on:
   pull_request:
     branches:
